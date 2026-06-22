@@ -1,0 +1,19 @@
+
+--- New Transaction Log ---
+Account Number: 2501003256
+Starting Balance: RS.7896.00
+Deposit Made: RS.5674.00
+Updated Balance: RS.13570.00
+Status: Transaction Successful
+
+--- New Transaction Log ---
+Account Number: 2501002031
+Starting Balance: RS.4567.00
+Deposit Made: RS.6754.00
+Updated Balance: RS.11321.00
+Status: Transaction Successful
+
+--- New Transaction Log ---
+Account Number: 2541004356
+Starting Balance: RS.0.00
+Status: Failed - Value Error: Deposit amount must be greater than zero.
